@@ -4,19 +4,19 @@
 
 ### Problema
 
-![](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/Problem%20B.png)
+![Problema B](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/ArquivosReadme/Problem%20B.png)
 
 ### Entradas e Saídas
 
-![](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/input%20e%20output%20B.png)
+![Entradas e Saidas de dados](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/ArquivosReadme/input%20e%20output%20B.png)
 
 ### Exemplos de Teste
 
-![](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/Exemplos%20de%20teste%20B.png)
+![Exemplos](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/ArquivosReadme/Exemplos%20de%20teste%20B.png)
 
 
 ### Funcionamento do programa desenvolvido
 
-![](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/Gif1B.gif)
+![Gif 1](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/ArquivosReadme/Gif1B.gif)
 
-![](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/Gif2B.gif)
+![Gif 2](https://github.com/WilliamDCGomes/Maratona-de-Programa-o-ICPC/blob/main/2020/Exercicio%20B/ArquivosReadme/Gif2B.gif)
